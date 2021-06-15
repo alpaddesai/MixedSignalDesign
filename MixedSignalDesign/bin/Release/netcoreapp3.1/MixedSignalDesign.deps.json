@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MixedSignalDesign/1.0.0": {
+        "runtime": {
+          "MixedSignalDesign.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MixedSignalDesign/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
