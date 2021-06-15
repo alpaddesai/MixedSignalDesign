@@ -1,0 +1,9 @@
+# Mixed Signal Design
+
+The project provides an overview of Mixed Signal Design.
+
+For details please click on the executable in https://github.com/alpaddesai/Optoelectronics/releases. 
+
+Company confidential information is not displayed. All images are custom by Alpa D Desai.
+
+![image](MixedSignalDesign.png)
