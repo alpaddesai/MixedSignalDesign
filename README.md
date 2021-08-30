@@ -7,3 +7,6 @@ For details please click on the executable in https://github.com/alpaddesai/Mixe
 Company confidential information is not displayed. All images are custom by Alpa D Desai.
 
 ![image](MixedSignalDesign.png)
+
+## Interest
+![image](BoseWireless.png)
