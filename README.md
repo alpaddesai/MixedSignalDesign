@@ -8,7 +8,4 @@ Company confidential information is not displayed. All images are custom by Alpa
 
 ![image](MixedSignalDesign.png)
 
-## Interest
-![image](BoseWireless.png)
-
 Additional details https://github.com/alpaddesai/MSEE_EngineeringProjectManagement
