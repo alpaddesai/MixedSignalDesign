@@ -8,4 +8,6 @@ Company confidential information is not displayed. All images are custom by Alpa
 
 ![image](MixedSignalDesign.png)
 
+![image](USCopyrightCertificate.png)
+
 Additional details https://github.com/alpaddesai/MSEE_EngineeringProjectManagement
