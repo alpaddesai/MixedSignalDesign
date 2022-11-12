@@ -10,6 +10,6 @@ Company confidential information is not displayed. All images are custom by Alpa
 
 ![image](USCopyrightCertificate.png)
 
-![image](Ethics.jgp)
+![image](Ethics.jpg)
 
 Additional details https://github.com/alpaddesai/MSEE_EngineeringProjectManagement
