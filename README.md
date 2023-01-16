@@ -12,4 +12,4 @@ Company confidential information is not displayed. All images are custom by Alpa
 
 ![image](Ethics.jpg)
 
-Additional details https://github.com/alpaddesai/HardwareEngineeringLab4-
+Additional details https://github.com/alpaddesai/ArchitecturalProductDesign
